@@ -1,0 +1,16 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "HC3NQ49D3T.com.alihan.LeaderID"],
+             "components": [
+               {
+                  "/": "/leaderid/*",
+                  "?": { "code": "*" },
+                  "comment": "Matches any URL with a path that starts with /leaderid/ and that has a query item with name 'code' and a value of any."
+               }
+             ]
+           }
+       ]
+   }
+}
